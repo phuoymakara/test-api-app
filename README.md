@@ -4,3 +4,4 @@
 
 # Learn more about 53Cloud
 https://53cloud.net/
+https://help.53cloud.net/
